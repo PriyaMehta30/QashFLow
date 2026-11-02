@@ -1,0 +1,5 @@
+ID,Date,Category,Description,Amount
+5,2026-11-02,Travel,Mysore,10000.0,Expense
+6,2026-11-10,Food,Food in Mysore ,5000.0,Expense
+7,2026-11-25,Bills,Water,550.0,Expense
+8,2026-11-25,Bills,Electricity ,1505.0,Expense
